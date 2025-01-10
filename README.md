@@ -88,7 +88,6 @@ We welcome contributions! Feel free to:
 - Submit pull requests to improve the code or add new features.
 - Report issues or suggest enhancements via the Issues tab.
 
-Let's collaborate to make this project better!
 
 ---
 
